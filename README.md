@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @samibenhajhmid
+- 👋 Hi, I’m sami benhajhmid.
+- 💻 I'm a Data Engineer.
 - 👀 I’m interested in predictive modeling, data processing, and data mining algorithms.
 - 💞️ I’m looking to collaborate on Data Science techniques and machine learning algorithms.
 - 📫 How to reach me on 
